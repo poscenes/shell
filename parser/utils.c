@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tjamis <tjamis@student.42.fr>              +#+  +:+       +#+        */
+/*   By: poscenes <poscenes@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/11 17:25:51 by tjamis            #+#    #+#             */
-/*   Updated: 2022/03/11 17:40:29 by tjamis           ###   ########.fr       */
+/*   Updated: 2022/08/20 17:30:09 by poscenes         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "minishell.h"
+#include "../include/minishell.h"
 
 int	ft_strncmp_no_reg(const char *s1, const char *s2, size_t n)
 {
